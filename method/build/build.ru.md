@@ -43,7 +43,7 @@ library/                # Уровень библиотеки
 **Пример**
 
 ![Декларация](build__declaration.svg)
-<img src="https://cdn.rawgit.com/bem/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg" width="100%" height="144">
+<img src="https://cdn.rawgit.com/bem/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg" >
 
 В проект подключена библиотека, из которой на странице используются три блока (button, input, langswitch). Вовсе не обязательно включать в сборку всю библиотеку. Достаточно составить список необходимых блоков по описанию страницы. Это можно сделать автоматически или вручную. На основании этого списка в сборку попадут только перечисленные блоки.
 
